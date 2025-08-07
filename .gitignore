@@ -1,0 +1,16 @@
+# Flutter/Dart Defaults
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+.vscode/
+android/.gradle/
+*.iml
+*.lock
+
+# Firebase keys and secrets
+*.jks
+*.keystore
+google-services.json
+*.plist
