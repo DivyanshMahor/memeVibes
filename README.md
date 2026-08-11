@@ -39,12 +39,6 @@ MemeVibes is a Flutter-based meme streaming app that fetches fresh memes from Re
 
 ---
 
-<img width="434" height="863" alt="Screenshot 2026-08-11 151614" src="https://github.com/user-attachments/assets/33b2e383-2e81-4595-a45b-c2d4403149be" />
-<img width="428" height="856" alt="Screenshot 2026-08-11 151127" src="https://github.com/user-attachments/assets/4a1a9582-de48-46ca-9f39-415cad4eda58" />
-<img width="417" height="854" alt="Screenshot 2026-08-11 151154" src="https://github.com/user-attachments/assets/4f1e6330-0760-4109-b590-5f95fe0dd5c9" />
-<img width="402" height="845" alt="Screenshot 2026-08-11 151052" src="https://github.com/user-attachments/assets/a00b34dc-80ac-417d-b1f5-7f28281d0136" />
-
-
 
 ## 📂 Project Structure
 lib/
