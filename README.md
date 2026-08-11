@@ -53,6 +53,7 @@ lib/
 └── main.dart
 
 ---
+<img width="493" height="907" alt="image" src="https://github.com/user-attachments/assets/07f75b35-e005-43a8-8dd4-a04d16e254ec" />
 
 ## 🚀 Getting Started
 
